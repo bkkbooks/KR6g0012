@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR6g0012/v1
+canonical_location: https://kanripo.org/bkk/KR6g0012/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 涅槃經疏
+  identifiers:
+    alt_id:
+    - T85n2765
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2765.xml
+    old_id: T85n2765
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0012_000.yaml, hash: 'sha256:b9ada96aabb1fda3663f29c48d9fd5673420401c5754a445384ce6ceaf2326e9'}
+  - {seq: 1, filename: KR6g0012_001.yaml, hash: 'sha256:e3aed6c22ab0a804a0dbc4ffb322bb89bac500c5a2d44afcd83019e4365dd626'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6g0012_001.markers.yaml, hash: 'sha256:1eba97f17092c0f589cd665c60dcd96b9f7cbb3e05a5bc684350702d44e0f759'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0012_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1839
+  label: 涅槃經疏
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0012_T_001-mulu-1
+    span:
+    - body
+    - 1300
+    - 1300
+  label: 憍陳如品
+  type: mulu
+  level: 1
+hash: sha256:f768ac88df17ead34beaa554a97f4062e10944a213cddea584de1ffd0fd0c9ed
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

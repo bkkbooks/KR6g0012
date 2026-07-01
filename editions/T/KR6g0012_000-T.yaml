@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0012/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 涅槃經疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2765.xml
+    old_id: T85n2765
+hash: sha256:b9ada96aabb1fda3663f29c48d9fd5673420401c5754a445384ce6ceaf2326e9
